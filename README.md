@@ -3,8 +3,8 @@
 - 性别 男  爱好 女
 - 🏡作品：暂时没有......
 - 🌱 希望技术能改变生活
-- 👯 技术分析博客复习兴趣分享：csdn：<a href="https://blog.csdn.net/weixin_55604133?spm=1000.2115.3001.5343"></a>
-- 👯 语雀：我记录技术笔记的地方：yuque： <a href="https://www.yuque.com/liuliangqi/pcy2sk/otp1pe"></a>
+- 👯 技术分析博客复习兴趣分享：[csdn]("https://blog.csdn.net/weixin_55604133?spm=1000.2115.3001.5343")
+- 👯 语雀：我记录技术笔记的地方：[yuque](a href="https://www.yuque.com/liuliangqi/pcy2sk/otp1pe")
 - 👬 扣扣：1649986432@qq.com
 - 💬 微信：liuliangqi0000  /  18423383267
 - 💬 公众号：小刘Java之路
