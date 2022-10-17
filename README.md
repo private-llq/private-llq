@@ -4,7 +4,7 @@
 - 爱好 写文章、打篮球、研究技术
 - 🏡作品：暂时没有......
 - 🌱 希望技术能改变生活、技术提高生活质量。
-- 👯 语雀：我记录技术笔记的地方：[yuque](a href="https://www.yuque.com/liuliangqi/pcy2sk/otp1pe")
+- 👯 语雀：我记录技术笔记的地方：[yuque](a href="https://www.yuque.com/liuliangqi/pcy2sk")
 - 👬 扣扣：1649986432@qq.com
 - 💬 微信：liuliangqi0000  /  18883469554 
 - 💬 公众号：<小刘Java之路>
