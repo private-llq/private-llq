@@ -15,5 +15,13 @@
 <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=private-llq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=private-llq&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+<table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center"><img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2403/c8dc4beebba496300b7e1a73a9378a6.jpg" width="200"/> </td>
+    </tr>
+    <tr>
+      <td align="center">拍摄于2022.02.20</td>
+    </tr>
+</table>
 
 
