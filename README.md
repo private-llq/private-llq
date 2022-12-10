@@ -7,7 +7,7 @@
       <td align="center">拍摄于2022.02.20</td>
     </tr>
 </table>
-- 🔭 my name is java boy
+<table> 🔭 my name is java boy </table>
 - 性别 男  爱好 女 
 - 爱好 写文章、打篮球、研究技术
 - 🏡作品：<spring-demo> 长期维护的技术demo测试，帮助快速开发。
