@@ -19,9 +19,9 @@
 <table> 💬 抖音号：chongqixiaoliu</table>
 <table> 😄开开心心的过好每一天生活，别去想那么没用的东西。</table>
 <table> ⚡ 加油！！！打工人！打工人！！</table>
-<table>  汇总 ✨</table>
+<table></table>      
 <table>🌐 找到我</table> 
-  
+<table></table>       
 <a href=""><img alt="个人博客（后面更新）" src=""/></a> 
 <a href="https://blog.csdn.net/weixin_55604133?type=blog"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%8F%E5%B0%8F%E5%88%98-brightgreen"/></a> 
 <a href="https://mail.163.com/"><img alt="邮箱" src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-a18423383267%40163.com-brightgreen"/></a> 
@@ -34,7 +34,10 @@
   <tr>
     <td align="center"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2403/qrcode_for_gh_e916e19a7f3a_430.jpg" width="200"/></td>
   </tr>
-</table>     
+</table>    
+<table></table>
+<table></table>   
+<table>  汇总 ✨</table>    
 <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=private-llq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=private-llq&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
     
