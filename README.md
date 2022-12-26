@@ -17,6 +17,7 @@
 <table> 💬 微信：cq-liuliangqi  /  18883469554 </table>
 <table> 💬 公众号：《小刘Java之路》</table>
 <table> 💬 抖音号：chongqixiaoliu</table>
+<table> 💬 工作邮箱mail：a18423383267@163.com</table>    
 <table> 😄开开心心的过好每一天生活，别去想那么没用的东西。</table>
 <table> ⚡ 加油！！！打工人！打工人！！</table>
 <table></table>      
