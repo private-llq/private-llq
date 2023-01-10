@@ -32,7 +32,6 @@
   <tr>
     <td align="center"><img alt="微信公众号" src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B0%8F%E5%88%98Java%E4%B9%8B%E8%B7%AF-brightgreen"/></td>
   </tr>
-    ![image](https://user-images.githubusercontent.com/79954968/211459868-4f40ce16-00ea-4d0a-a364-b0abbd9b0537.png)
   <tr>
     <td align="center"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2403/qrcode_for_gh_e916e19a7f3a_430.jpg" width="200"/></td>
   </tr>
