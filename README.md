@@ -9,7 +9,7 @@
 </table>
 <table> 🔭 my name is java boy </table>
 <table>性别 男  爱好 女 </table>
-<table> 爱好 写文章、打篮球、研究技术</table>
+<table> 爱好:写文章、打篮球、研究技术、做美食吃美食、挣钱</table>
 <table> 🏡作品：https://github.com/private-llq/spring-demo  长期维护的项目《spring-demo》，抛开业务帮助快速开发。</table>
 <table>🌱 希望技术能改变生活、技术提高生活质量。</table>
 <table> 👯 语雀：我记录技术笔记的地方：https://www.yuque.com/liuliangqi/pcy2sk
