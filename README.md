@@ -1,7 +1,7 @@
 # 程序员小刘 (*^▽^*)
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center"><img src="[![20230322102533-min.jpg](https://i.postimg.cc/FzC1272z/20230322102533-min.jpg)](https://postimg.cc/sGSVWDfC)" width="200"/> </td>
+       <td align="center"> <a href='https://postimg.cc/sGSVWDfC' target='_blank'><img src='https://i.postimg.cc/FzC1272z/20230322102533-min.jpg' border='0' width="200" alt='20230322102533-min'/></a></td>
     </tr>
     <tr>
       <td align="center">拍摄于2022.02.20</td>
