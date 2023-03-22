@@ -1,7 +1,7 @@
 # 程序员小刘 (*^▽^*)
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center"><img src="![微信图片_20230322102533](https://user-images.githubusercontent.com/79954968/226785869-8000a30a-571d-4bc9-be7e-5c0a680bab55.jpg)" width="200"/> </td>
+      <td align="center"><img src="![我](https://user-images.githubusercontent.com/79954968/226785869-8000a30a-571d-4bc9-be7e-5c0a680bab55.jpg)" width="200"/> </td>
     </tr>
     <tr>
       <td align="center">拍摄于2022.02.20</td>
@@ -19,7 +19,7 @@
 <table> 💬 抖音号：chongqixiaoliu / https://www.douyin.com/user/self </table>
 <table> 💬 工作邮箱mail：a18423383267@163.com / liuliangqi0@gmail.com </table>    
 <table> 💬 学习交流群：首先加我微信拉你进群！<table>
-![QQ截图20230322102332](https://user-images.githubusercontent.com/79954968/226785616-96476ca6-6061-4eef-88d6-0979cefa3bd6.png)
+![学习群](https://user-images.githubusercontent.com/79954968/226785616-96476ca6-6061-4eef-88d6-0979cefa3bd6.png)
 <table> 😄开开心心的过好每一天生活，别去想那么没用的东西。</table>
 <table> ⚡ 加油！！！打工人！打工人！！</table>
 <table></table>      
