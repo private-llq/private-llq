@@ -19,7 +19,7 @@
 <table> 💬 抖音号：chongqixiaoliu / https://www.douyin.com/user/self </table>
 <table> 💬 工作邮箱mail：a18423383267@163.com / liuliangqi0@gmail.com </table>    
 <table> 💬 学习交流群：首先加我微信拉你进群！<table>
-[![QQ-20230322102332.png](https://i.postimg.cc/Dy5t31jB/QQ-20230322102332.png)](https://postimg.cc/rK0hSRLr)
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Dy5t31jB/QQ-20230322102332.png' border='0' alt='QQ-20230322102332'/></a>
 <table> 😄开开心心的过好每一天生活，别去想那么没用的东西。</table>
 <table> ⚡ 加油！！！打工人！打工人！！</table>
 <table></table>      
