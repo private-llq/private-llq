@@ -1,7 +1,7 @@
 # 程序员小刘 (*^▽^*)
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center"><img src="![我](https://user-images.githubusercontent.com/79954968/226785869-8000a30a-571d-4bc9-be7e-5c0a680bab55.jpg)" width="200"/> </td>
+      <td align="center"><img src="[![20230322102533-min.jpg](https://i.postimg.cc/FzC1272z/20230322102533-min.jpg)](https://postimg.cc/sGSVWDfC)" width="200"/> </td>
     </tr>
     <tr>
       <td align="center">拍摄于2022.02.20</td>
