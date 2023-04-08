@@ -33,10 +33,9 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
   </tr>
-    微信公众号
   <tr>
       <td align="center">
-      <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jjkwgqzR/qrcode-for-gh-e916e19a7f3a-430.jpg' border='0' alt='qrcode-for-gh-e916e19a7f3a-430' width="400"/></a></td>
+      <a href='https://postimg.cc/hX32hFzV' target='_blank'><img src='https://i.postimg.cc/jjRmgtR3/image.png' border='0' alt='image'/></a></td>
   </tr>
 </table>    
 <table></table>
