@@ -33,9 +33,9 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
   </tr>
+    微信公众号
   <tr>
       <td align="center">
-          <td>"微信公众号"</td>
       <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jjkwgqzR/qrcode-for-gh-e916e19a7f3a-430.jpg' border='0' alt='qrcode-for-gh-e916e19a7f3a-430' width="400"/></a></td>
   </tr>
 </table>    
