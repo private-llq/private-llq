@@ -33,10 +33,9 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img alt="微信公众号" src="[![qrcode-for-gh-e916e19a7f3a-344.jpg](https://i.postimg.cc/9Xb1WZtM/qrcode-for-gh-e916e19a7f3a-344.jpg)](https://postimg.cc/PNL1yL7s)"></td>
-      
   </tr>
   <tr>
-      <td align="center"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/9Xb1WZtM/qrcode-for-gh-e916e19a7f3a-344.jpg' border='0' alt='qrcode-for-gh-e916e19a7f3a-344' width="200" /></a></td>
+      <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jjkwgqzR/qrcode-for-gh-e916e19a7f3a-430.jpg' border='0' alt='qrcode-for-gh-e916e19a7f3a-430'/></a>
   </tr>
 </table>    
 <table></table>
