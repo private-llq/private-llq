@@ -36,7 +36,7 @@
       
   </tr>
   <tr>
-    <td align="center"><img align="center" src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2403/qrcode_for_gh_e916e19a7f3a_430.jpg" width="200"/></td>
+      <td align="center"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/9Xb1WZtM/qrcode-for-gh-e916e19a7f3a-344.jpg' border='0' alt='qrcode-for-gh-e916e19a7f3a-344' width="200" /></a></td>
   </tr>
 </table>    
 <table></table>
