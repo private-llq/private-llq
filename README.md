@@ -10,11 +10,9 @@
 <table> 🔭 my name is java boy </table>
 <table> 🏡作品：https://github.com/private-llq/spring-demo  长期维护的项目《spring-demo》，抛开业务帮助快速开发。</table>
 <table>🌱 希望技术能改变生活、技术提高生活质量。</table>
-<table> 👯 语雀：我记录技术笔记的地方：https://www.yuque.com/liuliangqi
-<table> 💬 微信：cq-liuliangqi</table>
+<table> 👯 技术笔记：https://www.yuque.com/liuliangqi
 <table> 💬 公众号：《小刘Java之路》</table>
 <table> 💬 工作邮箱mail：a18423383267@163.com / liuliangqi0@gmail.com </table>    
-<table> 💬 学习交流群：首先加我微信拉你进群！<table>
 <table> <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Dy5t31jB/QQ-20230322102332.png' border='0'  width="400"  alt='QQ-20230322102332'/></a></table> 
 <table> ⚡ 加油！！！打工人！打工人！！</table>
 <table></table>      
