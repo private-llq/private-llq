@@ -12,6 +12,7 @@
 <table>🌱 希望技术能改变生活、技术提高生活质量。</table>
 <table> 👯 技术笔记：<a href="https://www.yuque.com/liuliangqi" target="_blank">
 <table> 👯 b站：<a href="https://space.bilibili.com/603822686?spm_id_from=333.1007.0.0">
+    <a href="https://www.yuque.com/snab/planet/cef1mcko4fve0ur3" target="_blank">mallchat实战文档
 <table> 💬 公众号：《小刘Java之路》</table>
 <table> 💬 工作邮箱mail：a18423383267@163.com / liuliangqi0@gmail.com </table>    
 <table> <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Dy5t31jB/QQ-20230322102332.png' border='0'  width="400"  alt='QQ-20230322102332'/></a></table> 
