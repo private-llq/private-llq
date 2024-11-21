@@ -1,4 +1,4 @@
-# 程序员小刘 (*^▽^*)
+# 小刘
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
        <td align="center"> <a href='https://postimg.cc/sGSVWDfC' target='_blank'><img src='https://i.postimg.cc/FzC1272z/20230322102533-min.jpg' border='0' width="200" alt='20230322102533-min'/></a></td>
@@ -9,7 +9,7 @@
 </table>
 <table> 🔭 my name is java boy </table>
 <table> 🏡作品：<a href="https://github.com/private-llq/spring-demo"> 《spring-demo》</table>
-<table>🌱 希望技术能改变生活。</table>
+<table>🌱 好好学习，天天向上。</table>
 <table> 👯 技术笔记：<a href="https://www.yuque.com/liuliangqi" target="_blank">技术文档
 <table> 👯 哔哩哔哩：<a href="https://space.bilibili.com/603822686?spm_id_from=333.1007.0.0" target="_blank">小刘java
 <table> 💬 公众号：《小刘Java之路》</table>
