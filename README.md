@@ -11,7 +11,7 @@
 <table> 🏡博客：<a href="https://www.yuque.com/liuliangqi" target="_blank"> </table>
 <table>🌱 好好学习，天天向上。</table>
 <table> 👯 博客：<a href="https://www.yuque.com/liuliangqi" target="_blank">小小的誓言小刘
-<table> 👯 掘金：<a href="" target="_blank">
+<table> 👯 掘金：<a href="https://juejin.cn/user/3320969499510424" target="_blank">程序猿小刘同学
 <table> 👯 哔哩哔哩：<a href="https://space.bilibili.com/603822686?spm_id_from=333.1007.0.0" target="_blank">程序员小刘同学
 <table> 💬 公众号：《小刘Java之路》</table>
 <table> 💬 工作邮箱mail：a18423383267@163.com / 1649986432@qq.com </table>    
