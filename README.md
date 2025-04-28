@@ -15,7 +15,7 @@
 <table> 👯 哔哩哔哩：<a href="https://space.bilibili.com/603822686?spm_id_from=333.1007.0.0" target="_blank">程序员小刘同学
 <table> 💬 公众号：《小刘Java之路》</table>
 <table> 💬 工作邮箱mail：a18423383267@163.com / 1649986432@qq.com </table>    
-<table> <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Dy5t31jB/QQ-20230322102332.png' border='0'  width="400"  alt='QQ-20230322102332'/></a></table> 
+<!-- <table> <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Dy5t31jB/QQ-20230322102332.png' border='0'  width="400"  alt='QQ-20230322102332'/></a></table>  -->
 <table></table>      
 <table>🌐 找到我</table> 
 <table></table>       
