@@ -20,7 +20,7 @@
 <table>🌐 找到我</table> 
 <table></table>       
 <!-- <a href=""><img alt="个人博客（后面更新）" src=""/></a>  -->
-<a href="https://blog.csdn.net/weixin_55604133?type=blog"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%8F%E5%B0%8F%E5%88%98-brightgreen" border='0'  width="200" /></a> 
+<a href="https://blog.csdn.net/weixin_55604133?type=blog"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%8F%E5%B0%8F%E5%88%98-brightgreen"/></a> 
 <a href="https://mail.163.com/"><img alt="邮箱" src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-a18423383267%40163.com-brightgreen"/></a> 
 <a href="https://wx.qq.com/index.php"><img alt="微信" src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-cq--liuliangqi-brightgreen"/></a>
 
@@ -29,7 +29,7 @@
   </tr>
   <tr>
       <td align="center">
-      <a href='https://postimg.cc/hX32hFzV' target='_blank'><img src='https://i.postimg.cc/jjRmgtR3/image.png' border='0' alt='image'/></a></td>
+      <a href='https://postimg.cc/hX32hFzV' target='_blank'><img src='https://i.postimg.cc/jjRmgtR3/image.png' border='0' alt='image'  width="200"/></a></td>
   </tr>
 </table>    
 <table></table>
